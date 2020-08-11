@@ -1,24 +1,16 @@
 {
-  "name": "git-tester",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "This is a test directory to learn git and node.",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/c-s-n-v-7-7/csnv.git"
-  },
-  "author": "Biswanath Dasgupta",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/c-s-n-v-7-7/csnv/issues"
-  },
-  "homepage": "https://github.com/c-s-n-v-7-7/csnv#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.3.0"
   }
 }
